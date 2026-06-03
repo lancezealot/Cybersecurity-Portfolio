@@ -77,19 +77,24 @@ Splunk, Windows Server, Sysmon
 
 ## Certifications
 
-**Course/Training certificate**
+**Course/Training Certificate**
 
-* Pre Security Certificate | TryHackMe
-* Jr Penetration Tester Certificate | TryHackMe
-* Red Teaming Certificate | TryHackMe
-* Offensive Pentesting Certificate | TryHackMe
-* CompTIA Pentest  Certificate | TryHackMe
-* SOC Level 1 Certificate | TryHackMe
-* Google Cybersecurity Certificate | Coursera
+<div>
+<img src="https://img.shields.io/badge/-TryHackMe%20Pre%20Security-00A4EF?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20Jr%20Penetration%20Tester-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20Offensive%20Pentesting-00d24a?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20Red%20Teaming-EF3B2D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20CompTIA%20PenTest%2B-777BB4?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-4B275F?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</div>
 
-**Professional certificate**
 
-* CompTIA Security+
+**Professional Certificate**
+
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+</div>
+
 
 ---
 
